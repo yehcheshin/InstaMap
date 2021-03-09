@@ -12,7 +12,7 @@ def read_db():
     try:
         query = 'SELECT * from stores_informations;'
         # Connect to postgres server on HH
-        host_ = "140.114.79.191"
+        host_ = "your_host"
         database_ = "pl_project"
         user_ = "postgres"
         password_ = 'HHcs1932'
