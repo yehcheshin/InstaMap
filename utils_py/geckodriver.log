@@ -1,0 +1,40 @@
+1608965192697	geckodriver	INFO	Listening on 127.0.0.1:37609
+1608965192698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUW8HHw"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1608965194093	Marionette	INFO	Listening on port 37755
+1608965194103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 388: SecurityError: Permission denied to access property "windowUtils" on cross-origin object
+1608965216482	Marionette	INFO	Stopped listening on port 37755
+1608965342120	geckodriver	INFO	Listening on 127.0.0.1:43671
+1608965342122	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile53D0kk"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1608965343407	Marionette	INFO	Listening on port 40123
+1608965343426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 388: SecurityError: Permission denied to access property "windowUtils" on cross-origin object
+1608965362009	Marionette	INFO	Stopped listening on port 40123
+1608965474088	geckodriver	INFO	Listening on 127.0.0.1:43231
+1608965474090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXl2Zjh"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1608965475375	Marionette	INFO	Listening on port 40625
+1608965475394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 388: SecurityError: Permission denied to access property "windowUtils" on cross-origin object
+1608965487251	Marionette	INFO	Stopped listening on port 40625
+1608973696000	geckodriver	INFO	Listening on 127.0.0.1:52931
+1608973696002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenwkFDy"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1608973697350	Marionette	INFO	Listening on port 36043
+1608973697406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 388: SecurityError: Permission denied to access property "windowUtils" on cross-origin object
+1608973708266	Marionette	INFO	Stopped listening on port 36043
+1608973910971	geckodriver	INFO	Listening on 127.0.0.1:55039
+1608973910973	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7aphcz"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1608973912323	Marionette	INFO	Listening on port 44447
+1608973912377	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 388: SecurityError: Permission denied to access property "windowUtils" on cross-origin object
+1608973924049	Marionette	INFO	Stopped listening on port 44447
